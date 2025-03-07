@@ -1,0 +1,12 @@
+# list
+list1 = [1, 2, 3, 4, 5]
+print(list1)
+# tuple
+tup = (10, 20, 30, 40, 50)
+print(tup)
+# dictionary
+dic = {"fname": "firdose", "age": 19}
+print(dic)
+# set
+set1 = {1, 3, 4, 15}
+print(set1)
